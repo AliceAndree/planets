@@ -10,7 +10,8 @@
 
 ### Intro
 
-Hi there !✨ Here is my solution for the [Planets facts site - Frontend Mentor Project](https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f/hub/planets-fact-site-0EOwO46m8). This will be my first Frontend Mentor's intermediate level.
+Hi there !✨  
+Here is my solution for the [Planets facts site - Frontend Mentor Project](https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f/hub/planets-fact-site-0EOwO46m8). This will be my first Frontend Mentor's intermediate level.
 
 The main tools I'll be using are :
 
